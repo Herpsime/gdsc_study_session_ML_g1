@@ -29,8 +29,8 @@ Based on these relationships it chooses the small feature set listed above.
 
 Splits, trains, and evaluates
 
-Splits the data into training and test sets (80/20).
 
+Splits the data into training and test sets (80/20).
 
 Builds a pipeline that applies preprocessing and then LinearRegression.
 
